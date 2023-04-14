@@ -16,8 +16,6 @@ Welcome to Lumache's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   README
-
 Indices and tables
 ==================
 
